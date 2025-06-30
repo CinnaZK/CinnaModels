@@ -1,0 +1,54 @@
+[
+    {
+        "name": "MagusDevon",
+        "type": "lora",
+        "author": "madotsuki.eth",
+        "size_mb": 37,
+        "base_model": "sd15",
+        "info_url": "",
+        "file_url": "https://files.heurist.xyz/MagusDevon_2024_NAI_V1.safetensors",
+        "checksum": "CEEA65D5B9827869F08B5816C16C382129FA58930FABD486C4124CC71F982B2F"
+    },
+    {
+        "name": "Philand",
+        "type": "lora",
+        "base_model": "sdxl10",
+        "author": "LDWorks",
+        "info_url": "",
+        "file_url": "https://files.heurist.xyz/ph1land-SDXL-LDW.safetensors",
+        "dtype": "float16",
+        "size_mb": 912,
+        "autofill": "ph1land style, pixel art, isometric view",
+        "recommend": "",
+        "default_weight": 1,
+        "checksum": "A0F6340B8644F53240DD3970F58F15FBE1D10FE82B462B7E301D13A11B4F9F8F"
+    },
+    {
+        "name": "Zeek",
+        "type": "lora",
+        "base_model": "sdxl10",
+        "author": "LDWorks",
+        "info_url": "",
+        "file_url": "https://files.heurist.xyz/z33k-Heurist-v2.5.safetensors",
+        "dtype": "float16",
+        "size_mb": 456,
+        "autofill": "z33k",
+        "recommend": "wearing ..., disguised as ...",
+        "default_weight": 1,
+        "checksum": "40496E7BA082524AABDB66F9DDF19D33336DA46A945BE10F127ADE3CE7943ED4"
+    },
+    {
+        "name": "PepeXL",
+        "type": "lora",
+        "base_model": "sdxl10",
+        "author": "doctor_diffusion",
+        "info_url": "https://civitai.com/models/161611/pepe-xl-lora",
+        "file_url": "https://files.heurist.xyz/DD-pepe-v2.safetensors",
+        "dtype": "float16",
+        "size_mb": 234,
+        "autofill": "Pepe",
+        "recommend": "pepe_frog, meme, web comic, cartoon, 3d render",
+        "default_weight": 0.8,
+        "checksum": "CBE1E1C746301801613CB331F2051AD16FF724DDA764A54135AA89D909067B97"
+    }
+]
