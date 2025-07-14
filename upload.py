@@ -4,8 +4,8 @@ import argparse
 from dotenv import load_dotenv
 
 # Example usage for uploading a directory of files to a bucket:
-# python3 upload.py --dir ~/Downloads/civitai --bucket heurist-models
-# python3 upload.py --file ~/Downloads/mixtral-8x7b-instruct-v0.1.Q6_K.gguf  --bucket heurist-models
+# python3 upload.py --dir ~/Downloads/civitai --bucket cinna-models
+# python3 upload.py --file ~/Downloads/mixtral-8x7b-instruct-v0.1.Q6_K.gguf  --bucket cinna-models
 
 # Load .env file
 load_dotenv()
