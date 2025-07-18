@@ -2,11 +2,11 @@
     {
         "name": "MagusDevon",
         "type": "lora",
-        "author": "madotsuki.eth",
-        "size_mb": 37,
         "base_model": "sd15",
+        "author": "madotsuki.eth",
         "info_url": "",
         "file_url": "https://files.cinna.xyz/MagusDevon_2024_NAI_V1.safetensors",
+        "size_mb": 37,
         "checksum": "CEEA65D5B9827869F08B5816C16C382129FA58930FABD486C4124CC71F982B2F"
     },
     {
